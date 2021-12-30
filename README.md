@@ -23,7 +23,7 @@ Open the link and begin adding tasks
 
 ## Usage
 
-URL
+https://kboston91.github.io/workday-tracker/
 
 ## License
 
